@@ -2,8 +2,8 @@
 // 1. FIRMA DEL DESARROLLADOR Y VARIABLES GLOBALES
 // ==========================================
 // Escribe tu nombre y documento exactos. Esto personalizará la aplicación.
-const developerName = "SOFIA ESCUDERO";
-const developerId = "66724";
+const developerName = "SOFIA ESCUDERO,VERONICA BEDOYA Y VALENTINA VALENCIA";
+const developerId = "66724,66701,66780";
 const baseUrl = "https://rickandmortyapi.com/api";
 
 // Arreglo para guardar los favoritos (lo usaremos más adelante)
